@@ -15,23 +15,34 @@ const Experience = () => {
         <>
           <section class="project">
             <h4 className="font-semibold">
-              I have Recently Joined Publicis Sapient
+              Natwest
             </h4>
-            {/* <ul className="list-disc pl-7 text-sm font-normal">
+            <ul className="list-disc pl-7 text-sm font-normal">
               <li>
-                Built and enhanced corporate vehicle reservation workflows for
-                internal operations.
+                Working for NatWest banking as part of the Fraud Prevention team, building secure and scalable frontend solutions for fraud
+monitoring and risk analysis workflows.
               </li>
               <li>
-                Integrated transportation services with{" "}
-                <strong>Drivania</strong> for seamless booking and status
-                tracking.
-              </li>
+ Developing enterprise-grade applications using React.js, TypeScript, and Micro-Frontend architecture to enable independent
+deployment and modular scalability across teams.
+            </li>
               <li>
-                Implemented validations, SLA-aware flows, and role-based access
-                for ops teams.
+ Collaborating with cross-functional teams including backend engineers, QA, product managers, and business stakeholders in
+Agile development cycles.
+                </li>
+              <li>
+Implementing reusable UI components, shared design systems, and optimized frontend patterns to improve maintainability
+and performance.
+                </li>
+              <li>
+ Integrating REST APIs and secure authentication flows while ensuring compliance with banking security and accessibility
+standards.
+                </li>
+              <li>
+Contributing to code reviews, architecture discussions, and frontend best practices for large-scale financial applications.
               </li>
-            </ul> */}
+              
+            </ul> 
           </section>
         </>
       ),
@@ -41,12 +52,9 @@ const Experience = () => {
         "Typescript",
         "Javscript",
         "Microfrontends",
-        "Azure",
+        "AWS",
         "Redux Toolkit",
-        "Zustand",
-        "GraphQL",
         "CSS",
-        "Tailwind CSS",
         "MUI",
       ],
       website: "https://www.publicissapient.com",
