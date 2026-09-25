@@ -4,7 +4,7 @@ const Footer = () => {
   const [footerLinks, setFooterLinks] = useState([
     {
       name: "Github",
-      link: "https://github.com/DudeAj",
+      link: "https://github.com/ajayxda",
     },
     {
       name: "LinkedIn",
